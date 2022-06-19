@@ -1,5 +1,5 @@
 Hello World!
-/n<b>Data Engineering Analyst</b> with <b>over 7 years of experience</b>. Proficient in designing, deploying, testing, & maintenance of <b>data warehouse & technical architecture</b>, ETLs, data manipulation, analytics, & visualizations. Multi-lingual professional with a unique combination of broad & deep business, & technology experience. Proven track record of accomplishments in <b>data engineering</b>, building <b>predictive ML models, analyzing & visualizing big data</b> by delivering insights & implementing robust engineered, user-focused solutions while driving breakthrough efficiently & improving bottom-line results. Creative problem solver & strategic decision maker in fast-paced fluid environments. 
+<br><b>Data Engineering Analyst</b> with <b>over 7 years of experience</b>. Proficient in designing, deploying, testing, & maintenance of <b>data warehouse & technical architecture</b>, ETLs, data manipulation, analytics, & visualizations. Multi-lingual professional with a unique combination of broad & deep business, & technology experience. Proven track record of accomplishments in <b>data engineering</b>, building <b>predictive ML models, analyzing & visualizing big data</b> by delivering insights & implementing robust engineered, user-focused solutions while driving breakthrough efficiently & improving bottom-line results. Creative problem solver & strategic decision maker in fast-paced fluid environments.</br> 
 
 💡 <b>Maryna Pavlenko</b>  
 ├─🚀 <b>Professional Overview</b>  
@@ -39,11 +39,12 @@ Hello World!
 ![](https://img.shields.io/badge/Cloud-Microsoft_Azure-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
 
 
-## Certification
+## Certifications
 ![](https://img.shields.io/badge/Python_Institute-Certified_Associate_in_Python_Programming-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tableau-Tableau_Desktop_Certified_Associate-informational?style=flat&logo=Tableau&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Databricks-Databricks_Certified_Associate_Developer_for_Apache_Spark-informational?style=flat&logo=Databricks&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/AWS-AWS_Partner:_Accreditation-informational?style=flat&logo=Amazon&logoColor=white&color=2bbc8a)
+<a href="https://www.credly.com/badges/2cdbf85a-3959-48fc-8c9b-9b26006a8e78/embedded">Certified Associate in Python Programming</a>
 
 📫 Contact:   
 ├─ [LinkedIn](https://www.linkedin.com/in/marynapavlenko/)   
