@@ -13,7 +13,7 @@ Hello World!
 │ │ ├─ <a href="https://uci.edu/">UC Irvine</a> / MS Business Analytics  
 │ │ ├─ <a href="https://www.fullcoll.edu/">Fullerton College</a> / AS Business Management    
 │ │ └─ <a href="http://onu.edu.ua/">Odessa Mechnikov National University</a> / BA & MA Linguistics  
-│ └─📦 <b>Specialization and Expertise</b>  
+│ └─📦 <b>Specialization & Expertise</b>  
 │ │ ├─ Data Pipepline Design | Data Architecture Development | Complex SQL queries Creation and Optimization  
 │ │ ├─ Data Migration | Data Governance & Security | Data Manipulation | Data Quality & Validation  
 │ │ ├─ Data Analytics  
